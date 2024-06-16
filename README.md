@@ -139,7 +139,7 @@ JobPost
 │   ├── city (str)
 │   ├── state (str)
 ├── description (str)
-├── job_type (str): fulltime, parttime, internship, contract
+├── job_type (str): fulltime, parttime, internship, contract, temporary
 ├── job_function (str)
 ├── compensation (object)
 │   ├── interval (str): yearly, monthly, weekly, daily, hourly
